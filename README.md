@@ -17,5 +17,6 @@ INPUT_FILTERに'vbfilter.py'と指定するか'vbfilter.py C 'と指定して下
 
 GPL
 
-大元のソースは「だらろぐ」さんのPython2用vbfilterから作っているのでGPLになっています
+大元のソースは「だらろぐ」さんのPython2用vbfilterから作っているのでGPLになっています 
+
 http://r-satsuki.air-nifty.com/blog/2008/02/vbfilter_61f1.html
