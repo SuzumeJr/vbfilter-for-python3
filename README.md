@@ -12,3 +12,10 @@ INPUT_FILTERに'vbfilter.py'と指定するか'vbfilter.py C 'と指定して下
 日本語基準になっているので、他の言語の方はコード内の下記部分を  
 自国で使用している文字コードに合わせて変更して下さい  
 >src_encoding = "cp932"
+
+####License(ライセンス)
+
+GPL
+
+大元のソースは「だらろぐ」さんのPython2用vbfilterから作っているのでGPLになっています
+http://r-satsuki.air-nifty.com/blog/2008/02/vbfilter_61f1.html
